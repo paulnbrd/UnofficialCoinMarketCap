@@ -1,0 +1,5 @@
+websocket-client~=0.57.0
+random-user-agent
+requests~=2.26.0
+bs4~=0.0.1
+beautifulsoup4~=4.9.3
